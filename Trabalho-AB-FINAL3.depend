@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1728934133 source:c:\users\bielr\onedrive\Área de trabalho\faculdade\faculdade_códigos\estruturadedados\trabalho-ab-final3\estoque.c
+	"estoque.h"
+
+1728934189 c:\users\bielr\onedrive\Área de trabalho\faculdade\faculdade_códigos\estruturadedados\trabalho-ab-final3\estoque.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1728934223 source:c:\users\bielr\onedrive\Área de trabalho\faculdade\faculdade_códigos\estruturadedados\trabalho-ab-final3\trabalho2.c
+	"estoque.h"
+
+1728934223 source:c:\users\bielr\onedrive\Área de trabalho\faculdade\faculdade_códigos\estruturadedados\trab-arv-bin\trabalho2.c
+	"estoque.h"
+
+1728934189 c:\users\bielr\onedrive\Área de trabalho\faculdade\faculdade_códigos\estruturadedados\trab-arv-bin\estoque.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1729186157 source:c:\users\bielr\onedrive\Área de trabalho\faculdade\faculdade_códigos\estruturadedados\trab-arv-bin\estoque.c
+	"estoque.h"
+
